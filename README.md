@@ -31,8 +31,8 @@ In order that the chart service works well, the data object has to look like thi
 ```
 [
   {
-    date: *String*
-    metric: *Float*
+    date: String
+    metric: Float
   }
 ]
 ```
