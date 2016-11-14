@@ -1,4 +1,4 @@
-# angular-seed — the seed for AngularJS apps
+# angular-test
 
 ### Clone angular-test
 
