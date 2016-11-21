@@ -26,9 +26,11 @@ Now browse to the app at `http://localhost:8000/#!/view1`.
 The goal of this exercice is to display a d3 chart with the datas that you can find in the data service:
 ![result](http://img4.hostingpics.net/pics/976277ScreenShot20161117at173859.png)
 
-With a promise, you will create a simulated call to an API in the data service.
+* With a promise, you will create a simulated call to an API in the data service.
 Afterwards, you will call this service in the View1 controller and map the data to have the right object.
 Then you will call the chart service (it doesn't need modification) with your data well mapped.
+
+* To improve your app, create a directive to encapsulate the logic.
 
 In order that the chart service works well, the data object has to look like this
 ```
